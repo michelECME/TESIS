@@ -42,7 +42,25 @@
     "jwtSecretKey": "MmU2MWY0YWUwNDNiOWQ2MTY1OGUyMDAzMWQwYzVlNjMzZjk4Yjc5OWFkYmFkNjgyODM5ODM3NjJkNDI4YTZjZWU3NGNjMzc5MDg0OGIwMDM1Mjg5NDQ1MzA4NDBhZjdmZTc4YmE5Zjc4MWNlNmFiNzUxYThmZWYyMGRlZWFmNTU=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": [
+      "Equipo",
+      "CantidadXModelo",
+      "CantidadXUEB",
+      "CantidadXMarca",
+      "AgregadoXChofer",
+      "LUBRICANTEXTIPO",
+      "LUBRICANTEXUEB",
+      "COMBUSTIBLEXUEB",
+      "CANTIDADXTIPOUEB",
+      "CANTIDADXTIPO",
+      "ENTREGAXTIPO",
+      "Recurso",
+      "Asignacion",
+      "Chofer",
+      "Motor"
+    ],
+    "lastLiquibaseTimestamp": 1620081206000
   },
   "git-provider": "GitHub",
   "git-company": "michelECME",
