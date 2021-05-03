@@ -7,6 +7,21 @@
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entities",
+        "equipo": "Equipo",
+        "cantidadXModelo": "Cantidad X Modelo",
+        "cantidadXueb": "Cantidad XUEB",
+        "cantidadXMarca": "Cantidad X Marca",
+        "agregadoXChofer": "Agregado X Chofer",
+        "lubricantextipo": "LUBRICANTEXTIPO",
+        "lubricantexueb": "LUBRICANTEXUEB",
+        "combustiblexueb": "COMBUSTIBLEXUEB",
+        "cantidadxtipoueb": "CANTIDADXTIPOUEB",
+        "cantidadxtipo": "CANTIDADXTIPO",
+        "entregaxtipo": "ENTREGAXTIPO",
+        "recurso": "Recurso",
+        "asignacion": "Asignacion",
+        "chofer": "Chofer",
+        "motor": "Motor",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

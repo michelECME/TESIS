@@ -48,6 +48,23 @@ public class CacheConfiguration {
             createCache(cm, com.ecme.com.domain.User.class.getName());
             createCache(cm, com.ecme.com.domain.Authority.class.getName());
             createCache(cm, com.ecme.com.domain.User.class.getName() + ".authorities");
+            createCache(cm, com.ecme.com.domain.Equipo.class.getName());
+            createCache(cm, com.ecme.com.domain.CantidadXModelo.class.getName());
+            createCache(cm, com.ecme.com.domain.CantidadXUEB.class.getName());
+            createCache(cm, com.ecme.com.domain.CantidadXMarca.class.getName());
+            createCache(cm, com.ecme.com.domain.AgregadoXChofer.class.getName());
+            createCache(cm, com.ecme.com.domain.LUBRICANTEXTIPO.class.getName());
+            createCache(cm, com.ecme.com.domain.LUBRICANTEXUEB.class.getName());
+            createCache(cm, com.ecme.com.domain.COMBUSTIBLEXUEB.class.getName());
+            createCache(cm, com.ecme.com.domain.CANTIDADXTIPOUEB.class.getName());
+            createCache(cm, com.ecme.com.domain.CANTIDADXTIPO.class.getName());
+            createCache(cm, com.ecme.com.domain.ENTREGAXTIPO.class.getName());
+            createCache(cm, com.ecme.com.domain.Recurso.class.getName());
+            createCache(cm, com.ecme.com.domain.Recurso.class.getName() + ".asignacions");
+            createCache(cm, com.ecme.com.domain.Asignacion.class.getName());
+            createCache(cm, com.ecme.com.domain.Chofer.class.getName());
+            createCache(cm, com.ecme.com.domain.Chofer.class.getName() + ".asignacions");
+            createCache(cm, com.ecme.com.domain.Motor.class.getName());
             // jhipster-needle-ehcache-add-entry
         };
     }
